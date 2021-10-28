@@ -1,0 +1,17 @@
+{
+  "name": "restful_web_services",
+  "version": "1.0.0",
+  "description": "Web Services",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js WEB-SERVICES",
+    "stop": "killall WEB-SERVICES"
+  },
+  "author": "Umamaheswara Rao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "request": "^2.88.2",
+    "winston": "^3.1.0"
+  }
+}
