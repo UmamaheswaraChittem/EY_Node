@@ -1,5 +1,5 @@
 {
     "Development": {
-        "TMFPipeline": "http://fmlvpslr1112.farmersinsurance.com:18080/cloudbees-core-cm/job/TMF/job/TMF_QA_Pipeline/buildWithParameters"
+        "getUniversityDetailsUrl": "http://universities.hipolabs.com/search"
     }
 }
