@@ -6,7 +6,7 @@ function getEnvironmentConfig() {
 }
 
 function getUniversityDetailsUrl() {
-    return getEnvironmentConfig()['TMFPipeline'];
+    return getEnvironmentConfig()['getUniversityDetailsUrl'];
 }
 
 module.exports = { getEnvironmentConfig, getUniversityDetailsUrl }
